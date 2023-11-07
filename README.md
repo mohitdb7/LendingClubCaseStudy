@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> We are performing an EDA for a company which is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. The goal is analyse the set of variables and figure out parameters that might lead to a default. This information could help the company for its portfolio and risk assessment.
+
 
 
 ## Table of Contents
@@ -11,11 +12,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+-  Similar to most other lending companies,not lending loans and lending loans to ‘risky’ applicants are the largest source of financial loss (called credit loss).The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.The dataset that was referred to is "Loan Data Set" and "Data Dictionary" where in while one contains the data across rows and columns the other describes the data for further analysis.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -28,9 +25,7 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
